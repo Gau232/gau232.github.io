@@ -1,6 +1,6 @@
 # Personal Portfolio ⚡️ 
 
-> https://github.com/Gau232/gau232.github.io
+> https://gau232.github.io/
 
 ## Sections 📚
 ✔️ About me\
